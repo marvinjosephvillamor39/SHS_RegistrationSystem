@@ -14,3 +14,4 @@ def get_connection():
         database=DB_NAME,
         port=DB_PORT
     )
+
